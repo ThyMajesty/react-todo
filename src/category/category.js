@@ -3,13 +3,13 @@ import './category.css';
 
 import Task from '../task/task';
 
-import { Provider } from 'react-redux';
-
-// We'll create this in Step 5.
-import store from '../store.js';
-
-// We'll create this in Step 6.
-import TaskForm from '../add-task/add-task.js';
+// import { Provider } from 'react-redux';
+//
+// // We'll create this in Step 5.
+// import store from '../store.js';
+//
+// // We'll create this in Step 6.
+// import TaskForm from '../add-task/add-task.js';
 
 class Category extends Component {
   constructor () {
